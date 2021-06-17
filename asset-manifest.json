@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/virtual_reality/static/css/main.e49f473f.chunk.css",
+    "main.js": "/virtual_reality/static/js/main.3a35559e.chunk.js",
+    "main.js.map": "/virtual_reality/static/js/main.3a35559e.chunk.js.map",
+    "runtime-main.js": "/virtual_reality/static/js/runtime-main.d51cdc14.js",
+    "runtime-main.js.map": "/virtual_reality/static/js/runtime-main.d51cdc14.js.map",
+    "static/js/2.cc7bf280.chunk.js": "/virtual_reality/static/js/2.cc7bf280.chunk.js",
+    "static/js/2.cc7bf280.chunk.js.map": "/virtual_reality/static/js/2.cc7bf280.chunk.js.map",
+    "static/js/3.f60e8e89.chunk.js": "/virtual_reality/static/js/3.f60e8e89.chunk.js",
+    "static/js/3.f60e8e89.chunk.js.map": "/virtual_reality/static/js/3.f60e8e89.chunk.js.map",
+    "index.html": "/virtual_reality/index.html",
+    "static/css/main.e49f473f.chunk.css.map": "/virtual_reality/static/css/main.e49f473f.chunk.css.map",
+    "static/js/2.cc7bf280.chunk.js.LICENSE.txt": "/virtual_reality/static/js/2.cc7bf280.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/virtual_reality/static/media/space2.e2d00d8b.jpg",
+    "static/media/cood.3f187e0c.jpg": "/virtual_reality/static/media/cood.3f187e0c.jpg",
+    "static/media/game.f9ea0d9e.jpg": "/virtual_reality/static/media/game.f9ea0d9e.jpg",
+    "static/media/game1.d7b8627b.jpg": "/virtual_reality/static/media/game1.d7b8627b.jpg",
+    "static/media/vr.709a4c50.png": "/virtual_reality/static/media/vr.709a4c50.png",
+    "static/media/vrgirl.30126081.png": "/virtual_reality/static/media/vrgirl.30126081.png",
+    "static/media/vrheadset.5c994062.png": "/virtual_reality/static/media/vrheadset.5c994062.png",
+    "static/media/vrwomen.71f43d35.png": "/virtual_reality/static/media/vrwomen.71f43d35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d51cdc14.js",
+    "static/js/2.cc7bf280.chunk.js",
+    "static/css/main.e49f473f.chunk.css",
+    "static/js/main.3a35559e.chunk.js"
+  ]
+}
